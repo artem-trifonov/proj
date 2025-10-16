@@ -7,4 +7,9 @@ public class MainAppl {
         System.out.println("5");
         System.out.println("121");
     }
+
+
+    public static void doSomething() {
+        System.out.println("Hello world");
+    }
 }
